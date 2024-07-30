@@ -12,3 +12,10 @@ int main(){
     }
     return 0;
 }
+/*
+Enetr the number to be checked:
+45
+Odd number
+Enetr the number to be checked:
+66
+Even number.*/
